@@ -33,8 +33,8 @@
 
 ## Features
 List the ready features here:
-- Awesome feature 1 
-- Awesome feature 2
+- Awesome feature 1 - When you press button A on the MicroBit it pumps water into the plant for 3 seconds 
+- Awesome feature 2 - When you press button B on the MicroBit it tells you the Moisure levels of the plant
 - Awesome feature 3
 
 
@@ -76,6 +76,6 @@ To do:
 ## Acknowledgements
 - This project was inspired by .... 
 - This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Many thanks to Andrew stapleton for letting me borrow his Mircobit and crocodile cables. 
 
 
