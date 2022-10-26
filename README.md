@@ -20,7 +20,9 @@
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project? 
+- to make a self-watering Plant so that i wouldn't need to worry about my plant drying out. 
 - Why did you undertake it?
+- I thought the project seemed interesting and it would allow me to deepen my knowledge in coding. 
 
 
 
@@ -53,6 +55,7 @@ Proceed to describe how to install / setup one's local environment / get started
 How does one go about using it?
 Provide various use cases and code examples here.
 
+when the 
 `write-your-code-here`
 
 
@@ -65,17 +68,17 @@ the isusue
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Have it work by itself. It only works when you press the B button .... 
+- Make the cables more organised/ Hidden.  
 
 To do:
 - Feature to be added 1
-- Feature to be added 2
+- Adding a little container that can store the cables will make it look neater ...
 
 
 ## Acknowledgements
-- This project was inspired by .... 
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by a .... 
+- This project was based on [this tutorial](https://www.instructables.com/Automatic-Plant-Watering-System-Using-a-Microbit/).
 - Many thanks to Andrew stapleton for letting me borrow his Mircobit and crocodile cables. 
 
 
