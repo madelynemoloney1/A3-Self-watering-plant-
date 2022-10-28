@@ -17,9 +17,10 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project? To make a self-watering Plant so that i wouldn't need to worry about my plant drying out. 
+- What problem does it (intend to) solve
+
+- What is the purpose of your project? 
+To make a self-watering Plant so that i wouldn't need to worry about my plant drying out. 
 - Why did you undertake it? I thought the project seemed interesting and it would allow me to deepen my knowledge in coding. 
 
 
