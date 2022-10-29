@@ -45,6 +45,8 @@ I thought the project seemed interesting and it would allow me to deepen my know
 ## Screenshots
 
 ![Screen Shot 2022-10-29 at 2 50 48 pm](https://user-images.githubusercontent.com/116044049/198812590-1b757b95-ff66-444c-a2e2-7e856e784ae9.png)
+![Screen Shot 2022-10-29 at 3 19 44 pm](https://user-images.githubusercontent.com/116044049/198813564-a681042b-aad8-44c1-aaa8-cae82a0a62df.png)
+
 
 ## Setup
 You needed these resources to created the project: a Plant, a MicroBit, Electronic Soil Moisture Sensor, Water pump 3 volts, Relay Module, Crocodile cable's, container and cable wires. The project needs a large amount of area to set it up. To get started you will need to set up the wires to the microbit, soil moisture sensor, relay module and water pump. I was inspired by a tutorial for the setup (shown in the acknowledgements). Then you download the code onto the Microbit, then you can start it. 
