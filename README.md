@@ -32,6 +32,7 @@ I thought the project seemed interesting and it would allow me to deepen my know
 - MakeCode 
 - Micro-Bit - Version 1.0 - Had to update it so it would connected
 - Water pump - 3 Volts
+- Relay module
 
 
 
@@ -51,32 +52,39 @@ What are the project requirements/dependencies? Where are they listed? A require
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
+I needed these resources to created the project: Plant, MicroBit, Electronic Soil Moisture Sensor, Water pump 3 volts, Relay Module, Crocodile cable's, container and cable wires. 
+
+
+
 
 
 
 ## Usage
 How does one go about using it?
-Provide various use cases and code examples here.
 
-when the 
-`write-your-code-here`
+When pressing button A on the Micro-bit it starts the pump for 3 seconds putting water into the plant.  
+![Screen Shot 2022-10-29 at 3 03 15 pm](https://user-images.githubusercontent.com/116044049/198812996-92242af4-bebf-45d1-9493-a8d7da767dbe.png)
+
+
+When pressing button B the Micro-bit reads the moisture level of the plant and puts it on the screen. 
+![Screen Shot 2022-10-29 at 3 03 43 pm](https://user-images.githubusercontent.com/116044049/198813008-2d6446c4-af3b-4f42-b3c3-cc9e232d534d.png)
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-the isusue 
+Project is: _in progress_ 
+
+The projected doesn't fully work, only when you press button A does it put water into the plant, it won't do it on its own. The code needs to be fixed. 
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Have it work by itself. It only works when you press the B button .... 
+- Have it work by itself. Only wwhen you press button B does it put water into the plant, the code needs to be changed. 
 - Make the cables more organised/ Hidden.  
 
 To do:
 - Feature to be added 1
-- Adding a little container that can store the cables will make it look neater ...
+- Adding a little container that can store the cables will make it look neater. 
 
 
 ## Acknowledgements
