@@ -17,7 +17,7 @@
 
 
 ## General Information
-- What problem does it (intend to) solve
+- What problem does it (intend to) solve? 
 The automated self-watering plant is trying to fix the issue of people over watering their plants or leaving them dehydrated, by using this project it automatically water's the plant according to it's needs. 
 
 - What is the purpose of your project? 
@@ -43,9 +43,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
+![Screen Shot 2022-10-29 at 2 50 48 pm](https://user-images.githubusercontent.com/116044049/198812590-1b757b95-ff66-444c-a2e2-7e856e784ae9.png)
 
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
