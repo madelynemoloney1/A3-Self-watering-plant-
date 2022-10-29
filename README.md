@@ -18,17 +18,20 @@
 
 ## General Information
 - What problem does it (intend to) solve
+The automated self-watering plant is trying to fix the issue of people over watering their plants or leaving them dehydrated, by using this project it automatically water's the plant according to it's needs. 
 
 - What is the purpose of your project? 
-To make a self-watering Plant so that i wouldn't need to worry about my plant drying out. 
-- Why did you undertake it? I thought the project seemed interesting and it would allow me to deepen my knowledge in coding. 
+To make a self-watering Plant so that i wouldn't need to worry about my plant drying out and dying. 
+
+- Why did you undertake it? 
+I thought the project seemed interesting and it would allow me to deepen my knowledge in coding. 
 
 
 
 ## Technologies Used
 - MakeCode 
 - Micro-Bit - Version 1.0 - Had to update it so it would connected
-- water pump - 3 Volts
+- Water pump - 3 Volts
 
 
 
@@ -36,7 +39,7 @@ To make a self-watering Plant so that i wouldn't need to worry about my plant dr
 List the ready features here:
 - Awesome feature 1 - When you press button A on the MicroBit it pumps water into the plant for 3 seconds 
 - Awesome feature 2 - When you press button B on the MicroBit it tells you the Moisure levels of the plant
-- Awesome feature 3
+- Awesome feature 3 - 
 
 
 ## Screenshots
@@ -48,6 +51,8 @@ List the ready features here:
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
+
+
 
 
 ## Usage
