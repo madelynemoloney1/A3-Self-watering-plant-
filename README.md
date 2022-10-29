@@ -37,10 +37,9 @@ I thought the project seemed interesting and it would allow me to deepen my know
 
 
 ## Features
-List the ready features here:
 - Awesome feature 1 - When you press button A on the MicroBit it pumps water into the plant for 3 seconds 
 - Awesome feature 2 - When you press button B on the MicroBit it tells you the Moisure levels of the plant
-- Awesome feature 3 - 
+- Awesome feature 3 - .........
 
 
 ## Screenshots
@@ -48,19 +47,12 @@ List the ready features here:
 ![Screen Shot 2022-10-29 at 2 50 48 pm](https://user-images.githubusercontent.com/116044049/198812590-1b757b95-ff66-444c-a2e2-7e856e784ae9.png)
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-I needed these resources to created the project: Plant, MicroBit, Electronic Soil Moisture Sensor, Water pump 3 volts, Relay Module, Crocodile cable's, container and cable wires. 
-
-
+You needed these resources to created the project: a Plant, a MicroBit, Electronic Soil Moisture Sensor, Water pump 3 volts, Relay Module, Crocodile cable's, container and cable wires. The project needs a large amount of area to set it up. To get started you will need to set up the wires to the microbit, soil moisture sensor, relay module and water pump. I was inspired by a tutorial for the setup (shown in the acknowledgements). Then you download the code onto the Microbit, then you can start it. 
 
 
 
 
 ## Usage
-How does one go about using it?
 
 When pressing button A on the Micro-bit it starts the pump for 3 seconds putting water into the plant.  
 ![Screen Shot 2022-10-29 at 3 03 15 pm](https://user-images.githubusercontent.com/116044049/198812996-92242af4-bebf-45d1-9493-a8d7da767dbe.png)
@@ -79,16 +71,16 @@ The projected doesn't fully work, only when you press button A does it put water
 ## Room for Improvement
 
 Room for improvement:
-- Have it work by itself. Only wwhen you press button B does it put water into the plant, the code needs to be changed. 
+- Have it work by itself. Only when you press button B does it put water into the plant. 
 - Make the cables more organised/ Hidden.  
 
 To do:
-- Feature to be added 1
+- Figure out/research what is going wrong with the code so that it will work.
 - Adding a little container that can store the cables will make it look neater. 
 
 
 ## Acknowledgements
-- This project was inspired by a .... 
+- This project was inspired by my dehydrated plants. 
 - This project was based on [this tutorial](https://www.instructables.com/Automatic-Plant-Watering-System-Using-a-Microbit/).
 - Many thanks to Andrew stapleton for letting me borrow his Mircobit and crocodile cables. 
 
