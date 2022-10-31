@@ -39,7 +39,7 @@ I thought the project seemed interesting and it would allow me to deepen my know
 ## Features
 - Awesome feature 1 - When you press button A on the MicroBit it pumps water into the plant for 3 seconds 
 - Awesome feature 2 - When you press button B on the MicroBit it tells you the Moisure levels of the plant
-
+- Awesome feature 3 - Smiley face when turned on 
 
 ## Screenshots
 
