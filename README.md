@@ -1,7 +1,7 @@
 # A3-Self-watering-plant-
 # 14270300 Self Watering Plant 
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+The Automated self watering plant using a MicroBit, monitors the moisture levels of the plant using a soil moisture sensor which pumps water into the plant if the soil is dry for 3 seconds. The Microbit is code so that it automatically checks the soil's moisture every few minutes. The MicroBit displays the moisture levels on its LED screen at all times and has two buttons one to show the exact soil moisture and the other to pump water manually for 3 seconds.  
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -39,7 +39,6 @@ I thought the project seemed interesting and it would allow me to deepen my know
 ## Features
 - Awesome feature 1 - When you press button A on the MicroBit it pumps water into the plant for 3 seconds 
 - Awesome feature 2 - When you press button B on the MicroBit it tells you the Moisure levels of the plant
-- Awesome feature 3 - .........
 
 
 ## Screenshots
@@ -58,7 +57,6 @@ You needed these resources to created the project: a Plant, a MicroBit, Electron
 
 When pressing button A on the Micro-bit it starts the pump for 3 seconds putting water into the plant.  
 ![Screen Shot 2022-10-29 at 3 03 15 pm](https://user-images.githubusercontent.com/116044049/198812996-92242af4-bebf-45d1-9493-a8d7da767dbe.png)
-
 
 When pressing button B the Micro-bit reads the moisture level of the plant and puts it on the screen. 
 ![Screen Shot 2022-10-29 at 3 03 43 pm](https://user-images.githubusercontent.com/116044049/198813008-2d6446c4-af3b-4f42-b3c3-cc9e232d534d.png)
