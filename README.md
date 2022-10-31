@@ -65,7 +65,7 @@ When pressing button B the Micro-bit reads the moisture level of the plant and p
 ## Project Status
 Project is: _in progress_ 
 
-The projected doesn't fully work, only when you press button A does it put water into the plant, it won't do it on its own. The code needs to be fixed. 
+The projected doesn't fully work, only when you press button A does the pump put water into the plant, it won't do it on its own. The code needs to be fixed. 
 
 
 ## Room for Improvement
