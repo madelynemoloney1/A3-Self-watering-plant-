@@ -44,6 +44,8 @@ I thought the project seemed interesting and it would allow me to deepen my know
 ## Screenshots
 
 ![Screen Shot 2022-10-29 at 2 50 48 pm](https://user-images.githubusercontent.com/116044049/198812590-1b757b95-ff66-444c-a2e2-7e856e784ae9.png)
+![Screen Shot 2022-10-31 at 12 06 39 pm](https://user-images.githubusercontent.com/116044049/198911976-e16649d1-5026-4327-9003-574e85347990.png)
+
 ![Screen Shot 2022-10-29 at 3 19 44 pm](https://user-images.githubusercontent.com/116044049/198813564-a681042b-aad8-44c1-aaa8-cae82a0a62df.png)
 ![Screen Shot 2022-10-31 at 12 05 07 pm](https://user-images.githubusercontent.com/116044049/198911883-3f1ccf26-1aee-41c1-8e43-061068e57317.png)
 
