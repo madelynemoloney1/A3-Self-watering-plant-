@@ -76,7 +76,7 @@ Room for improvement:
 
 To do:
 - Figure out/research what is going wrong with the code so that it will work.
-- Adding a little container that can store the cables will make it look neater. 
+- Adding a little container that can store the cables will make it look neater, putting the Microbit on this container so it is on full display. 
 
 
 ## Acknowledgements
